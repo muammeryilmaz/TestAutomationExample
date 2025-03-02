@@ -1,0 +1,17 @@
+{
+  "TestCaseParameters": {
+    "DragAndDropFunctionalityTests": {
+      "DragMenuItems": [
+        {
+          "menu-fried-chicken": "Fried Chicken"
+        } /*,
+        {
+          "menu-hamburger": "Hamburger"
+        },
+        {
+          "menu-ice-cream": "Ice Cream"
+        }*/
+      ]
+    }
+  }
+}
